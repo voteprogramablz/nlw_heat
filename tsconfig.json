@@ -4,6 +4,7 @@
     "module": "commonjs",
     "esModuleInterop": true,
     "strict": false,
-    "skipLibCheck": true
+    "skipLibCheck": true,
+    "typeRoots": ["./src/@types"]
   }
 }
